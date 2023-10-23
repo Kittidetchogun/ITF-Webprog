@@ -10,7 +10,7 @@ body {
 }
 
 .decorate-1 {
-    display: inline;
+    display: inline-block;
     height: auto;
     margin-left: 20px;
     margin-right: 20px;
