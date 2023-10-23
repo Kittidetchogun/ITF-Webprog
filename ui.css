@@ -7,6 +7,7 @@ body {
 h1 {
     text-align: center;
     color: lightsalmon;
+    text-shadow: 1px 1px;
 }
 img {
     border: 10px solid aquamarine;
