@@ -2,6 +2,10 @@
 body {
     background-color: gray;
 }
+img {
+    border-radius: 20px;
+    float: right;
+}
 
 .diff {
     border: 3px outset darkgreen;
