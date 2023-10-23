@@ -1,6 +1,10 @@
 body {
-    background-color: pink;
+    background-color: gray;
 }
 .decorate-1 {
     display: inline-block;
+    height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: aquamarine;
 }
