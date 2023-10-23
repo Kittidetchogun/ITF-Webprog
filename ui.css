@@ -3,6 +3,7 @@ body {
     background-color: gray;
 }
 img {
+    border: 5px;
     border-radius: 10px;
     float: left;
 }
