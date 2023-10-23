@@ -6,7 +6,7 @@ body {
 
 h1 {
     text-align: center;
-    color: rgb(red, green, blue);
+    color: red;
 }
 img {
     border: 10px solid aquamarine;
