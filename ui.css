@@ -19,7 +19,7 @@ img {
     border: 3px outset darkgreen;
     background-color: lightblue;
     text-align: center;
-    border-radius: 15px;
+    border: 15px;
 }
 
 .decorate-1 {
