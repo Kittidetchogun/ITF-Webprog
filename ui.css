@@ -16,10 +16,10 @@ img {
 }
 
 .diff {
-    border: 3px outset darkgreen;
+    border: 6px outset darkgreen;
     background-color: lightblue;
     text-align: center;
-    border: 15px;
+    margin-bottom: 10px;
 }
 
 .decorate-1 {
