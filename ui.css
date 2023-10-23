@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 body {
     background-color: gray;
+    font-family: 'Open Sans', sans-serif;
 }
 img {
     border: 10px solid aquamarine;
@@ -23,6 +24,5 @@ img {
     background-color: aquamarine;
     padding: 0px 10px 0px 10px;
     border-radius: 20px;
-    font-family: 'Open Sans', sans-serif;
     font-size: large;
 }
