@@ -2,11 +2,21 @@
 body {
     background-color: gray;
 }
+
+.diff {
+    border: 3px outset darkgreen;
+    background-color: lightblue;
+    text-align: center;
+}
+
 .decorate-1 {
     display: inline;
     height: auto;
     margin-left: 20px;
     margin-right: 20px;
     background-color: aquamarine;
+    padding: 0px 10px 0px 10px;
+    border-radius: 20px;
     font-family: 'Open Sans', sans-serif;
+    font-size: large;
 }
