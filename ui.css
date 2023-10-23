@@ -6,7 +6,7 @@ body {
 
 h1 {
     text-align: center;
-    color: red;
+    color: lightsalmon;
 }
 img {
     border: 10px solid aquamarine;
@@ -19,6 +19,7 @@ img {
     border: 3px outset darkgreen;
     background-color: lightblue;
     text-align: center;
+    border-radius: 15px;
 }
 
 .decorate-1 {
