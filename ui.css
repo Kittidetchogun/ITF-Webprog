@@ -3,8 +3,8 @@ body {
     background-color: gray;
 }
 img {
-    border-radius: 20px;
-    float: right;
+    border-radius: 10px;
+    float: left;
 }
 
 .diff {
